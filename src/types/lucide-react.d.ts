@@ -1,0 +1,42 @@
+declare module 'lucide-react' {
+  type LucideIcon = any;
+
+  export const AlertTriangle: LucideIcon;
+  export const ArrowRight: LucideIcon;
+  export const BarChart3: LucideIcon;
+  export const Bot: LucideIcon;
+  export const Briefcase: LucideIcon;
+  export const Building2: LucideIcon;
+  export const CheckCircle2: LucideIcon;
+  export const ChevronDown: LucideIcon;
+  export const ChevronUp: LucideIcon;
+  export const Circle: LucideIcon;
+  export const ClipboardCheck: LucideIcon;
+  export const FlaskConical: LucideIcon;
+  export const FolderKanban: LucideIcon;
+  export const GraduationCap: LucideIcon;
+  export const Info: LucideIcon;
+  export const LayoutDashboard: LucideIcon;
+  export const LogOut: LucideIcon;
+  export const Map: LucideIcon;
+  export const Menu: LucideIcon;
+  export const MessageCircle: LucideIcon;
+  export const Mic2: LucideIcon;
+  export const Plus: LucideIcon;
+  export const RotateCcw: LucideIcon;
+  export const Send: LucideIcon;
+  export const Settings: LucideIcon;
+  export const ShieldAlert: LucideIcon;
+  export const Sparkles: LucideIcon;
+  export const Target: LucideIcon;
+  export const Trash2: LucideIcon;
+  export const TrendingDown: LucideIcon;
+  export const TrendingUp: LucideIcon;
+  export const User: LucideIcon;
+  export const UserCircle2: LucideIcon;
+  export const Users: LucideIcon;
+  export const WifiOff: LucideIcon;
+  export const X: LucideIcon;
+  export const XCircle: LucideIcon;
+  export const Zap: LucideIcon;
+}
